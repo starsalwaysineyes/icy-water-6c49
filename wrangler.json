@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "icy-water-6c49",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "40a7a4db-1584-4b9a-b3d4-0f322a6f5128",
+      "database_name": "DB"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
